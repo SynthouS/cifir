@@ -1,2 +1,2 @@
 # cifir
-Compressed image format with support for clarity with ".cif" extension
+Image format used text information with ".cif" extension
