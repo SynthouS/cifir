@@ -1,4 +1,4 @@
-3x3 <--Resolution of picture--> 
-#282828, <--first Vertical color (hex)--> #ffffff, <--first Horizontal color (hex)--> #ffffff,
-#282828, #ffffff, #ffffff, 
-#282828, #ffffff, #ffffff,
+<3x3>
+#ff0000 #00ff00 #0000ff
+#ffff00 #ff00ff #00ffff
+#808080 #ff8000 #0080ff
