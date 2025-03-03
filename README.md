@@ -27,6 +27,7 @@ A CIF file consists of the following components:
 # Cifir Viewer
 Just open ```.cif``` use cifir app. or in windows u can type in cmd
 ```cifir.exe filename.cif``` and in linux ```./cifir filename.cif```
+Also use ```lmb``` and ```mwheel``` for navigation
 
 # Cifirworks.py
 
