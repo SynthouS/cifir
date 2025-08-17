@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> Now, cifir it's a lib. For a Cif Image Viewer visit this [link](https://github.com/slakgosh/civ)
-
 <div align="center">
   <picture>
         <img alt="The Cifir Image Format Logo"
